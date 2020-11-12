@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0WV+o2pLekgLWpTQ/GdbhDOG/iGGZjxS0p62m9fIJqwwJic2YqcTk52MXR2TLrVMn+fwjavljtoJ+P7R0lxELQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Swathi\\source\\repos\\interface class\\interface class\\interface class.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Swathi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
